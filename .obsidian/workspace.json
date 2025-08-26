@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project_elientro/mechanics/Sistema de Qualidade.md",
+                "file": "games_development/project_elientro/mechanics/Sistema de Qualidade.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,16 +199,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "de73fe57674fab07",
+  "active": "45c82ad4eac6e73a",
   "lastOpenFiles": [
-    "project_elientro/mechanics/Sistema de Qualidade.md",
-    "project_elientro/mechanics",
-    "project_elientro/skills/Main Skills.md",
-    "project_elientro/skills/Mining.md",
+    "games_development",
+    "games_development/project_elientro/mechanics/Sistema de Qualidade.md",
+    "games_development/project_elientro/mechanics",
+    "games_development/project_elientro/skills/Main Skills.md",
+    "games_development/project_elientro/skills/Mining.md",
     "README.md",
     "project_elientro/Untitled.md",
     "Welcome.md",
-    "project_elientro/skills",
-    "project_elientro"
+    "games_development/project_elientro/skills",
+    "games_development/project_elientro"
   ]
 }
