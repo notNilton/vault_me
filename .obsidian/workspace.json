@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6e7f03e9a81088ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4e2140f3a964b2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "games_development/project_elientro/mechanics/Sistema de Qualidade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistema de Qualidade"
-            }
-          }
-        ]
-      },
-      {
         "id": "10e2f7e7acf69bf8",
         "type": "tabs",
         "children": [
@@ -31,10 +11,14 @@
             "id": "de73fe57674fab07",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "meetings/2025'09'09 - joão pena.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025'09'09 - joão pena"
             }
           }
         ]
@@ -201,15 +185,20 @@
   },
   "active": "45c82ad4eac6e73a",
   "lastOpenFiles": [
-    "games_development",
-    "games_development/project_elientro/mechanics/Sistema de Qualidade.md",
-    "games_development/project_elientro/mechanics",
-    "games_development/project_elientro/skills/Main Skills.md",
-    "games_development/project_elientro/skills/Mining.md",
+    "meetings/2025'09'07 - urgencia para amanhã.md",
+    "meetings/2025'09'09 - joão pena.md",
+    "meetings",
+    "game_development/project_elientro/mechanics/Sistema de Qualidade.md",
+    "job_hunting/25-08-28 Job Interview.md",
     "README.md",
+    "job_hunting",
+    "game_development",
+    "game_development/project_elientro/mechanics",
+    "game_development/project_elientro/skills/Main Skills.md",
+    "game_development/project_elientro/skills/Mining.md",
     "project_elientro/Untitled.md",
     "Welcome.md",
-    "games_development/project_elientro/skills",
-    "games_development/project_elientro"
+    "game_development/project_elientro/skills",
+    "game_development/project_elientro"
   ]
 }
